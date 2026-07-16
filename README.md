@@ -31,4 +31,4 @@
 
 ---
 
-**Репозиторий проекта:** [n-porutchikov/teatr](https://github.com/n-porutchikov/teatr)
+**Репозиторий проекта:** [n-porutchikov/territory_theater](https://github.com/n-porutchikov/territory_theater)
